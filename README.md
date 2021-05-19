@@ -1,10 +1,10 @@
 # Grouply
 Find Invite Links of WhatsApp Group Chats.
 
-## Description
+## Description :
 This Tool can Extract Invite Links of WhatsApp Groups from Google Results.
 
-### Installing
+### Installing :
 
 ```
 git clone https://github.com/Lucia361/grouply.git
@@ -12,7 +12,7 @@ cd grouply
 python3 -m pip install google
 python3 grouply.py
 ```
-### Notes
+### Notes :
  - [x] WhatsApp Group Checking  <br>
  - [x] Scrapping From Links in Google Searches <br>
  - [x] Add Multi-Threading <br>
